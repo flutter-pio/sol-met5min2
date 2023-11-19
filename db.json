@@ -452,59 +452,6 @@
       "period": "PT5M",
       "Column1": 0.6
    },
-   {
-      "pv_power_rooftop": 1.435,
-      "period_end": "2023-10-11T08:35:00Z",
-      "period": "PT5M",
-      "Column1": 0.95
-   },
-   {
-      "pv_power_rooftop": 1.483,
-      "period_end": "2023-10-11T08:40:00Z",
-      "period": "PT5M",
-      "Column1": 0.78
-   },
-   {
-      "pv_power_rooftop": 1.53,
-      "period_end": "2023-10-11T08:45:00Z",
-      "period": "PT5M",
-      "Column1": 0.62
-   },
-   {
-      "pv_power_rooftop": 1.577,
-      "period_end": "2023-10-11T08:50:00Z",
-      "period": "PT5M",
-      "Column1": 0.54
-   },
-   {
-      "pv_power_rooftop": 1.623,
-      "period_end": "2023-10-11T08:55:00Z",
-      "period": "PT5M",
-      "Column1": 1.2
-   },
-   {
-      "pv_power_rooftop": 1.668,
-      "period_end": "2023-10-11T09:00:00Z",
-      "period": "PT5M",
-      "Column1": 0.59
-   },
-   {
-      "pv_power_rooftop": 1.697,
-      "period_end": "2023-10-11T09:05:00Z",
-      "period": "PT5M",
-      "Column1": 1.43
-   },
-   {
-      "pv_power_rooftop": 1.707,
-      "period_end": "2023-10-11T09:10:00Z",
-      "period": "PT5M",
-      "Column1": 0.86
-   },
-   {
-      "pv_power_rooftop": 1.716,
-      "period_end": "2023-10-11T09:15:00Z",
-      "period": "PT5M",
-      "Column1": 0.48
-   },
+
 ]
 }
